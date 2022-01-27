@@ -1,0 +1,130 @@
+/*Basic CSS reset*/
+
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*General styles*/
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #0a0a23;
+  color: #ffffff;
+}
+
+a {
+  color: #f1be32;
+}
+
+a:hover {
+  color: #acd157;
+}
+
+.fcc-logo {
+  max-width: 300px;
+  padding-bottom: 50px;
+  margin: auto;
+  display: block;
+}
+
+/*Quiz styles*/
+
+.select-quiz-styles {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-heading, .results-heading {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.select-btn-div {
+  display: flex; 
+  flex-direction: column; 
+  margin: 20px;  
+}
+
+.select-btns, .answers-btns {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 15px; 
+  margin: 10px 0;
+  background-color: #ffffff;
+  border: none;
+  font-size: 1.2rem;
+}
+
+.quiz-btn, .results-btn, .modal-btn {
+  background-color: #f1be32;
+  border: 3px solid #feac32;
+  font-size: 1.2rem;
+  padding: 5px;
+}
+
+.quiz-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quiz-answers-div {
+  display: flex; 
+  flex-direction: column;
+  margin: 20px
+}
+
+.quiz-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.quiz-text {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.4rem;
+}
+
+/*Modal styles*/
+
+.modal-styles .modal-content {
+  background-color: #ffffff;
+  color: black;
+}
+
+.modal-link {
+  color: #002ead;
+  font-size: 19.8px;
+}
+
+.modal-text {
+  font-size: 1.6rem;
+}
+
+/*Results styles*/
+
+.results-div {
+  display: flex;
+  flex-direction: column;
+  justify-content:  center; 
+  align-items:  center ;
+}
+
+.results-text {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.results-rpg-link {
+  color: #f1be32;
+}
