@@ -33,8 +33,8 @@ const WelcomePage = ({ start }) => {
         <div className="row featurette content-row-container" style={{ backgroundColor: "#2a2a40" }}>
           <div className="col-md-7 order-md-2 content-text-container">
             <h2 className="featurette-heading">Brand new to programming?</h2>
-            <p className="lead">Learn to code for free and start your programming journey with <a target="_blank" rel="noopener noreferrer" href="https://www.freecodecamp.org/learn/">freeCodeCamp.org</a>.</p>
-            <p className="lead">freeCodeCamp's mission is to help people <strong>learn to code for free</strong>. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public.</p>
+            <p className="lead">Learn to code for free and start your programming journey with <a target="_blank" rel="noopener noreferrer" href="https://www.cs60apa.educationhost.cloud/edu/">CS60APA</a>.</p>
+            <p className="lead">CS60APA's mission is to help people <strong>learn to code for free</strong>. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public.</p>
           </div>
           <div className="col-md-5 order-md-1 content-img-container">
             <img src={fccBackground} className="img-fluid rounded" id="#fcc-image" alt="freeCodeCamp rpg logo" />
