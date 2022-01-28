@@ -1,8 +1,8 @@
-# freeCodeCamp Developer Quiz
+# Students Project Developer Quiz
 
 ![Learn to Code RPG Main Menu](Splash_Art.png)
 
-The [developerquiz.org](https://developerquiz.org/) website is the companion to [Learn to Code RPG Game](https://freecodecamp.itch.io/learn-to-code-rpg), a visual novel game developed by [freeCodeCamp](https://www.freecodecamp.org) to help you learn how to code. 😺
+The [developerquiz.org](https://developerquiz.org/) website is the companion to [Learn to Code RPG Game](https://Students Project.itch.io/learn-to-code-rpg), a visual novel game developed by [Students Project](https://www.Students Project.org) to help you learn how to code. 😺
 
 [developerquiz.org](https://developerquiz.org/) hosts all **600+** multiple choice questions featured in the game on the following topics:
 
@@ -18,16 +18,16 @@ The [developerquiz.org](https://developerquiz.org/) website is the companion to 
 
 All questions are beginner friendly and approachable to all levels, so they are ideal for refreshing your programming knowledge.
 
-If you are brand new to programming, learn to code for free and start your programming journey with [freeCodeCamp](https://www.freecodecamp.org/).
+If you are brand new to programming, learn to code for free and start your programming journey with [Students Project](https://cs60apa.educationhost.cloud/edu/).
 
 freeCodeCamp creates thousands of articles, videos and courses on a variety of coding topics.
 
 All of the helpful and thoughtful resources are made possible by the generous donations of kind people.
 
-Have a look  [here](https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/) at the different ways  you can support our non-profit's  mission and make tech education accessible to all.
+Have a look  [here](https://cs60apa.educationhost.cloud/edu/) at the different ways  you can support our non-profit's  mission and make tech education accessible to all.
 
 ## How to run the quiz questions locally
-Here are directions on how to fork the freeCodeCamp/Developer_Quiz_Site repository:<br>
+Here are directions on how to fork the Students Project/Developer_Quiz_Site repository:<br>
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
 In the command line:
@@ -46,18 +46,18 @@ We welcome all contributions, suggestions and ideas for improvement from the com
 
 You can contribute by adding  new quiz questions or making changes to the code.
 
-Make sure to first read through the [Code of Conduct](https://www.freecodecamp.org/news/code-of-conduct/).
+Make sure to first read through the [Code of Conduct](https://cs60apa.educationhost.cloud/edu/).
 
-Then, see the ways you can contribute [here](https://contribute.freecodecamp.org/#/).
+Then, see the ways you can contribute [here](https://cs60apa.educationhost.cloud/edu/).
 
 ### How to report bugs
 
 Found a bug while playing?
 
-Read through [this helpful article](https://forum.freecodecamp.org/t/how-to-report-a-bug-to-the-freecodecamp-open-source-community/19543) on how to report bugs.
+Read through [this helpful article](https://cs60apa.educationhost.cloud/edu/) on how to report bugs.
 
 Then, report them by opening a **GitHub Issue**.
 
 ### License
 
-Copyright © 2021 freeCodeCamp.org, All rights reserved.
+Copyright © 2022 CS60APA QUIZ App, All rights reserved.
