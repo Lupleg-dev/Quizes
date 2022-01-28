@@ -18,7 +18,7 @@ const QuizModal = ({ message, points, displayExplanation, showReference, nextQue
           <a className="modal-link" href={showReference} target="_blank" rel="noopener noreferrer">Learn more with this helpful resource</a>
           <br />
           <br />
-          <p>Wanna learn how to code? <br /> Download the free <a className="modal-link" target="_blank" rel="noopener noreferrer" href="https://cs60apa.educationhost.cloud/edu/">Learn to Code RPG game</a></p>
+          <p>Wanna learn how to code? <br /> Download the free <a className="modal-link" target="_blank" rel="noopener noreferrer" href="https://cs60apa.educationhost.cloud/edu/">Learn to Code With CS60APA</a></p>
         </Modal.Body>
         <Modal.Footer>
           <button className="modal-btn" onClick={nextQuestion}>Next Question</button>
