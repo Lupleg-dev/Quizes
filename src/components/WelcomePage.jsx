@@ -46,7 +46,7 @@ const WelcomePage = ({ start }) => {
         <div className="row featurette content-row-container" style={{ backgroundColor: "#0a0a23" }}>
           <div className="col-md-7 order-md-2 content-text-container">
             <h2 style={{ marginTop: '40px' }} className="featurette-heading">Want to learn how to code while playing a game?</h2>
-            <p className="lead"> Give Mark Sikaundi a try <br /> <a href="https://www.freecodecamp.org/news/learn-to-code-rpg/" target="_blank" rel="noopener noreferrer">Learn to Code RPG Game</a> a go!</p>
+            <p className="lead"> Give Mark Sikaundi a try <br /> <a href="https://cs60apa.educationhost.cloud/edu/" target="_blank" rel="noopener noreferrer">Learn to Code RPG Game</a> a go!</p>
             <p className="lead">Available for free download on <br /> Windows, Mac and Linux.</p>
           </div>
           <div className="col-md-5 order-md-2 content-img-container">

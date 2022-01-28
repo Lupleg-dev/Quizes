@@ -8,7 +8,7 @@ const Results = ({ points, totalPoints, resetQuiz }) => {
           className="results-rpg-link"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.freecodecamp.org/news/learn-to-code-rpg/"> RPG game
+          href="https://cs60apa.educationhost.cloud/edu"> RPG game
         </a>
       </p>
       <button
