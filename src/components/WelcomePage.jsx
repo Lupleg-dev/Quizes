@@ -19,7 +19,7 @@ const WelcomePage = ({ start }) => {
         <div className="row featurette content-row-container" style={{ backgroundColor: "#0a0a23" }}>
           <div className="col-md-7 content-text-container">
             <h2 className="featurette-heading">Want to test your programming knowledge?</h2>
-            <p className="lead">Brush up on HTML, CSS, JavaScript, Linux, Python, Git, SQL, IT and general Computer Science concepts, with <span style={{ fontWeight: '700' }}>600+</span> questions.</p>
+            <p className="lead">Brush up on HTML, CSS, JavaScript, React Native, Python, Django, Git, SQL, IT and general Computer Science concepts, with <span style={{ fontWeight: '700' }}>600+</span> questions.</p>
             <p className="lead">Take our quiz and have fun learning!</p>
             <Button handleClick={start} text="Quiz" isTransparent={false} />
           </div>
@@ -34,7 +34,7 @@ const WelcomePage = ({ start }) => {
           <div className="col-md-7 order-md-2 content-text-container">
             <h2 className="featurette-heading">Brand new to programming?</h2>
             <p className="lead">Learn to code for free and start your programming journey with <a target="_blank" rel="noopener noreferrer" href="https://www.cs60apa.educationhost.cloud/edu/">CS60APA</a>.</p>
-            <p className="lead">CS60APA's mission is to help people <strong>learn to code for free</strong>. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public.</p>
+            <p className="lead">CS60APA's mission is to help people <strong>learn to code for free</strong>. We accomplish this by creating thousands of projects, articles, and interactive coding lessons - all freely available to the public.</p>
           </div>
           <div className="col-md-5 order-md-1 content-img-container">
             <img src={fccBackground} className="img-fluid rounded" id="#fcc-image" alt="freeCodeCamp rpg logo" />
@@ -45,9 +45,9 @@ const WelcomePage = ({ start }) => {
 
         <div className="row featurette content-row-container" style={{ backgroundColor: "#0a0a23" }}>
           <div className="col-md-7 order-md-2 content-text-container">
-            <h2 style={{ marginTop: '40px' }} className="featurette-heading">Want to learn how to code while playing a game?</h2>
-            <p className="lead"> Give Mark Sikaundi a try <br /> <a href="https://cs60apa.educationhost.cloud/edu/" target="_blank" rel="noopener noreferrer">Learn to Code RPG Game</a> a go!</p>
-            <p className="lead">Available for free download on <br /> Windows, Mac and Linux.</p>
+            <h2 style={{ marginTop: '40px' }} className="featurette-heading">Want to learn how to code while Still a Beginner?</h2>
+            <p className="lead"> Give CS60APA  a try👇 <br /> <a href="https://cs60apa.educationhost.cloud/edu/" target="_blank" rel="noopener noreferrer">30DaysCodingChallenges</a> a go!</p>
+            <p className="lead">Available for free Online, <br /> try and signup Now.</p>
           </div>
           <div className="col-md-5 order-md-2 content-img-container">
             <img src={rpgMenu} className="img-fluid rounded" alt="freeCodeCamp rpg logo" />

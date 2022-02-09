@@ -3201,12 +3201,12 @@ const fullQuiz = [
     Link: "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-data-types-and-built-in-data-structures-in-python",
   },
   {
-    Question: "freeCodeCamp's Mascot is:",
-    Answer: "CamperBot",
-    Distractor1: "freeCodeCampasaurus Rex",
-    Distractor2: "Bill Murray",
+    Question: "What can you do with Javascript",
+    Answer: "Web Development",
+    Distractor1: "Machine learning and AI",
+    Distractor2: "Graphic Design",
     Distractor3: "Campy the Raccoon",
-    Explanation: "The freeCodeCamp community created CamperBot early on to help out with automated tasks in our chat rooms. Since then, he has been helpful in many different places, including the freeCodeCamp forum. He is a helpful robot who runs on kindness.",
+    Explanation: "What makes javascript unique, is that its the major web development programming language manly which powers you with cool staffs to your site",
     Link: "https://www.freecodecamp.org/news/about/",
   },
   {
