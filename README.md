@@ -38,17 +38,8 @@ In the command line:
 4) Run the project with `npm start`
 5) Have fun 🚀
 
-### How to contribute
-
-This open source project is a work in progress and ever evolving.
-
-We welcome all contributions, suggestions and ideas for improvement from the community.
-
-You can contribute by adding  new quiz questions or making changes to the code.
-
-Make sure to first read through the [Code of Conduct](https://cs60apa.educationhost.cloud/edu/).
-
-Then, see the ways you can contribute [here](https://cs60apa.educationhost.cloud/edu/).
+### Read code of conduct 
+Make sure read through the [Code of Conduct](https://cs60apa.educationhost.cloud/contribute [here](https://cs60apa.educationhost.cloud/edu/).
 
 ### How to report bugs
 
