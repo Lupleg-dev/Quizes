@@ -1,8 +1,14 @@
 import Modal from "react-bootstrap/Modal";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const QuizModal = ({ message, points, displayExplanation, showReference, nextQuestion, show }) => {
-
+const QuizModal = ({
+  message,
+  points,
+  displayExplanation,
+  showReference,
+  nextQuestion,
+  show,
+}) => {
   return (
     <>
       <Modal className="modal-styles" show={show}>
@@ -13,18 +19,39 @@ const QuizModal = ({ message, points, displayExplanation, showReference, nextQue
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <p><b>Answer:</b></p>
+          <p>
+            <b>Answer:</b>
+          </p>
           <p>{displayExplanation}</p>
-          <a className="modal-link" href={showReference} target="_blank" rel="noopener noreferrer">👉Learn more with our Online learning platform</a>
+          <a
+            className="modal-link"
+            href={showReference}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            👉Learn more with our Online learning platform
+          </a>
           <br />
           <br />
-          <p>Wanna learn how to code? <br /> Join us for free👉 <a className="modal-link" target="_blank" rel="noopener noreferrer" href="https://cs60apa.educationhost.cloud/edu/">Learn to Code With CS60APA</a></p>
+          <p>
+            Wanna learn how to code? <br /> Join us for free👉{" "}
+            <a
+              className="modal-link"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://app.lupleg.website/dashboard"
+            >
+              Learn to Code With Lupleg
+            </a>
+          </p>
         </Modal.Body>
         <Modal.Footer>
-          <button className="modal-btn" onClick={nextQuestion}>Next Question</button>
+          <button className="modal-btn" onClick={nextQuestion}>
+            Next Question
+          </button>
         </Modal.Footer>
       </Modal>
     </>
-  )
-}
+  );
+};
 export default QuizModal;
